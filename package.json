@@ -42,16 +42,16 @@
     "file-loader": "^0.10.0",
     "flow-bin": "^0.42.0",
     "html-webpack-plugin": "^2.26.0",
-    "node-sass": "^4.3.0",
+    "node-sass": "^9.0.0",
     "postcss-loader": "^1.2.2",
     "react-hot-loader": "^3.0.0-beta.6",
     "sass-loader": "^6.0.2",
     "semistandard": "^10.0.0",
     "style-loader": "0.16.0",
     "url-loader": "0.5.8",
-    "webpack": "^2.2.1",
+    "webpack": "^5.94.0",
     "webpack-cleanup-plugin": "^0.5.1",
     "webpack-dashboard": "^0.3.0",
-    "webpack-dev-server": "^2.4.1"
+    "webpack-dev-server": "^5.0.4"
   }
 }
